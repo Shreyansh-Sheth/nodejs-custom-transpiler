@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "outts",
+    "esModuleInterop": true,
+    "allowJs": true,
+    "rootDir": "src"
+  },
+  "exclude": ["node_modules", "plugins", "dist", "outts"]
+}
